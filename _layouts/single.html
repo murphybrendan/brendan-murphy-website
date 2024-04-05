@@ -62,13 +62,7 @@ layout: default
 
       {% include post_pagination.html %}
       
-        <script src="https://utteranc.es/client.js"
-        repo="https://github.com/murphybrendan/brendan-murphy-website"
-        issue-term="pathname"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-        </script>
+      {% include utterances.html %}
     </div>
 
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
