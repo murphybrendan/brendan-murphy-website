@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Brendan Murphy"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm just a guy trying to do his best, one day at a time."
+  bio    : "I'm a guy just trying to be a little bit better than yesterday."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
